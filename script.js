@@ -43,3 +43,6 @@ for (var i = 0; i < navLinks.length; i++) {
     menuBtn.style.pointerEvents = "auto";
   });
 }
+
+let hirebutn = document.querySelector(".button1");
+
